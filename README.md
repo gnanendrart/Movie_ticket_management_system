@@ -5,7 +5,7 @@ C++ based project to simulate the working of a movie theater reservation system
 
 Movie Ticket management System is based on a concept of recording and booking customer’s movie ticket details. The user can perform all the tasks like booking a movie show, receiving tickets, and user registration and view all movies that are currently showing.
 
-The adminstrator can login to verify the number of tickets booked and no of seats available for each show and can create/delete/edit movie details. The customer can create login accounts to book tickets and find the movies and the show timings for each movie. Allows creation of new accounts for both adminstrators and users.
+The administrator  can login to verify the number of tickets booked and no of seats available for each show and can create/delete/edit movie details. The customer can create login accounts to book tickets and find the movies and the show timings for each movie. Allows creation of new accounts for both adminstrators and users.
 
 
 # How to run the code
